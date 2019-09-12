@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Table name="InvolvedPeople">
+  <Person>
+    <InvolvedPeopleID>1</InvolvedPeopleID>
+    <Location>Egypt</Location>
+    <Image>D:\Image</Image>
+    <Age>30</Age>
+  </Person>
+  <Person>
+    <InvolvedPeopleID>2</InvolvedPeopleID>
+    <Location>Egypt</Location>
+    <Image>D:\Image</Image>
+    <Age>35</Age>
+  </Person>
+  <Person>
+    <InvolvedPeopleID>3</InvolvedPeopleID>
+    <Location>JBJUB</Location>
+    <Image>
+    </Image>
+    <Age>25</Age>
+  </Person>
+  <Person>
+    <InvolvedPeopleID>4</InvolvedPeopleID>
+    <Location>JBJUBDD</Location>
+    <Image>
+    </Image>
+    <Age>25</Age>
+  </Person>
+</Table>

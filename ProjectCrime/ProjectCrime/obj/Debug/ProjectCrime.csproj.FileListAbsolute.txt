@@ -1,0 +1,39 @@
+D:\visual project\ProjectCrime\ProjectCrime\bin\Debug\ProjectCrime.exe
+D:\visual project\ProjectCrime\ProjectCrime\bin\Debug\ProjectCrime.exe.config
+D:\visual project\ProjectCrime\ProjectCrime\obj\Debug\ProjectCrime.AdminWork.resources
+D:\visual project\ProjectCrime\ProjectCrime\obj\Debug\ProjectCrime.Form1.resources
+D:\visual project\ProjectCrime\ProjectCrime\obj\Debug\ProjectCrime.officerwork.resources
+D:\visual project\ProjectCrime\ProjectCrime\obj\Debug\ProjectCrime.Properties.Resources.resources
+D:\visual project\ProjectCrime\ProjectCrime\obj\Debug\ProjectCrime.Show.resources
+D:\visual project\ProjectCrime\ProjectCrime\obj\Debug\ProjectCrime.system.resources
+D:\visual project\ProjectCrime\ProjectCrime\obj\Debug\ProjectCrime.csproj.GenerateResource.Cache
+D:\visual project\ProjectCrime\ProjectCrime\obj\Debug\ProjectCrime.exe
+D:\visual project\ProjectCrime\ProjectCrime\obj\Debug\ProjectCrime.pdb
+D:\visual project\ProjectCrime\ProjectCrime\bin\Debug\ProjectCrime.pdb
+D:\visual project\ProjectCrime\ProjectCrime\obj\Debug\ProjectCrime.csprojResolveAssemblyReference.cache
+C:\Users\abdo\Desktop\ProjectCrime\ProjectCrime\bin\Debug\ProjectCrime.exe.config
+C:\Users\abdo\Desktop\ProjectCrime\ProjectCrime\obj\Debug\ProjectCrime.exe
+C:\Users\abdo\Desktop\ProjectCrime\ProjectCrime\obj\Debug\ProjectCrime.pdb
+C:\Users\abdo\Desktop\ProjectCrime\ProjectCrime\bin\Debug\ProjectCrime.exe
+C:\Users\abdo\Desktop\ProjectCrime\ProjectCrime\bin\Debug\ProjectCrime.pdb
+C:\Users\abdo\Desktop\ProjectCrime\ProjectCrime\obj\Debug\ProjectCrime.csprojResolveAssemblyReference.cache
+C:\Users\abdo\Desktop\ProjectCrime\ProjectCrime\obj\Debug\ProjectCrime.AdminWork.resources
+C:\Users\abdo\Desktop\ProjectCrime\ProjectCrime\obj\Debug\ProjectCrime.Form1.resources
+C:\Users\abdo\Desktop\ProjectCrime\ProjectCrime\obj\Debug\ProjectCrime.officerwork.resources
+C:\Users\abdo\Desktop\ProjectCrime\ProjectCrime\obj\Debug\ProjectCrime.Properties.Resources.resources
+C:\Users\abdo\Desktop\ProjectCrime\ProjectCrime\obj\Debug\ProjectCrime.Show.resources
+C:\Users\abdo\Desktop\ProjectCrime\ProjectCrime\obj\Debug\ProjectCrime.system.resources
+C:\Users\abdo\Desktop\ProjectCrime\ProjectCrime\obj\Debug\ProjectCrime.csproj.GenerateResource.Cache
+F:\visual\ProjectCrime\ProjectCrime\bin\Debug\ProjectCrime.exe.config
+F:\visual\ProjectCrime\ProjectCrime\obj\Debug\ProjectCrime.exe
+F:\visual\ProjectCrime\ProjectCrime\obj\Debug\ProjectCrime.pdb
+F:\visual\ProjectCrime\ProjectCrime\bin\Debug\ProjectCrime.exe
+F:\visual\ProjectCrime\ProjectCrime\bin\Debug\ProjectCrime.pdb
+F:\visual\ProjectCrime\ProjectCrime\obj\Debug\ProjectCrime.csprojResolveAssemblyReference.cache
+F:\visual\ProjectCrime\ProjectCrime\obj\Debug\ProjectCrime.AdminWork.resources
+F:\visual\ProjectCrime\ProjectCrime\obj\Debug\ProjectCrime.Form1.resources
+F:\visual\ProjectCrime\ProjectCrime\obj\Debug\ProjectCrime.officerwork.resources
+F:\visual\ProjectCrime\ProjectCrime\obj\Debug\ProjectCrime.Properties.Resources.resources
+F:\visual\ProjectCrime\ProjectCrime\obj\Debug\ProjectCrime.Show.resources
+F:\visual\ProjectCrime\ProjectCrime\obj\Debug\ProjectCrime.system.resources
+F:\visual\ProjectCrime\ProjectCrime\obj\Debug\ProjectCrime.csproj.GenerateResource.Cache

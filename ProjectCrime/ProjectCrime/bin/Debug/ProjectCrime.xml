@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Table name="admin">
+  <admin>
+    <Admin_ID>1</Admin_ID>
+    <Admin_Name>FCIS</Admin_Name>
+  </admin>
+</Table>

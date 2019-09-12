@@ -1,0 +1,12 @@
+D:\visual project\ProjectCrime\ProjectCrime\bin\Release\ProjectCrime.exe.config
+D:\visual project\ProjectCrime\ProjectCrime\bin\Release\ProjectCrime.exe
+D:\visual project\ProjectCrime\ProjectCrime\bin\Release\ProjectCrime.pdb
+D:\visual project\ProjectCrime\ProjectCrime\obj\Release\ProjectCrime.AdminWork.resources
+D:\visual project\ProjectCrime\ProjectCrime\obj\Release\ProjectCrime.Form1.resources
+D:\visual project\ProjectCrime\ProjectCrime\obj\Release\ProjectCrime.officerwork.resources
+D:\visual project\ProjectCrime\ProjectCrime\obj\Release\ProjectCrime.Properties.Resources.resources
+D:\visual project\ProjectCrime\ProjectCrime\obj\Release\ProjectCrime.Show.resources
+D:\visual project\ProjectCrime\ProjectCrime\obj\Release\ProjectCrime.system.resources
+D:\visual project\ProjectCrime\ProjectCrime\obj\Release\ProjectCrime.csproj.GenerateResource.Cache
+D:\visual project\ProjectCrime\ProjectCrime\obj\Release\ProjectCrime.exe
+D:\visual project\ProjectCrime\ProjectCrime\obj\Release\ProjectCrime.pdb
